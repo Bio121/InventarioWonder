@@ -1,0 +1,10 @@
+﻿  BackPack.cpp
+D:\cg\SDL Template\BackPack.cpp(102,97): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cg\SDL Template\BackPack.cpp(106,103): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cg\SDL Template\BackPack.cpp(110,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cg\SDL Template\BackPack.cpp(126,85): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cg\SDL Template\BackPack.cpp(130,92): warning C4305: 'argument': truncation from 'double' to 'float'
+  Source.cpp
+  gear.cpp
+  Generating Code...
+  SDL Template.vcxproj -> D:\cg\SDL Template\x64\Debug\SDL Template.exe
